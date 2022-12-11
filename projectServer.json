@@ -1,0 +1,11 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject2"
+    },
+
+    {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-0574da719dca65348"
+    }
+]
